@@ -33,8 +33,7 @@ build/
 .vscode/
 
 
-# Ignore Dockerfile
-Dockerfile
+#
 
 # Ignore Jenkinsfile
 Jenkinsfile

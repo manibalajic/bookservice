@@ -1,0 +1,8 @@
+FROM mysql:latest
+
+# Copy the SQL script to the container
+COPY schema.sql /docker-entrypoint-initdb.d/
+
+# Set environment variables for MySQL
+ENV MYSQL_ROOT_PASSWORD=monkey321
+ENV MYSQL_DATABASE=books_db
