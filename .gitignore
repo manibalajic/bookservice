@@ -31,3 +31,12 @@ build/
 
 ### VS Code ###
 .vscode/
+
+
+# Ignore Dockerfile
+Dockerfile
+
+# Ignore Jenkinsfile
+Jenkinsfile
+
+
