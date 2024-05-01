@@ -12,7 +12,7 @@
 
     <groupId>com.bookservice</groupId>
     <artifactId>bookservice</artifactId>
-    <version>1.2.4</version>
+    <version>1.2.4-Snapshot</version>
     <name>bookservice</name>
     <description>Sample API Based</description>
 
