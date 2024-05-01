@@ -2,7 +2,7 @@ FROM openjdk
 
 WORKDIR /app
 
-COPY  /targer/*.jar /app/app.jar
+COPY  /target/*.jar /app/app.jar
 
 EXPOSE 8085
 
